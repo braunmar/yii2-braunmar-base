@@ -3,8 +3,7 @@
   "description": "Yii2 braunmar base",
   "keywords": [
     "braunmar",
-    "yii2",
-    "base"
+    "yii2-braunmar-base"
   ],
   "type": "yii2-extension",
   "license": "MIT",
