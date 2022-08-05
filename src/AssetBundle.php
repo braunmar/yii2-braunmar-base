@@ -12,7 +12,7 @@ use yii\web\AssetBundle as BaseAssetBundle;
 
 /**
  * Seznam map widget
- * 
+ *
  * @author Marek Braun <marra.braun@gmail.com>
  * @package braunmar/yii2-braunmar-base
  * @see https://github.com/braunmar/yii2-braunmar-base
@@ -33,5 +33,4 @@ class AssetBundle extends BaseAssetBundle
 
         $this->$type = $src;
     }
-
 }
